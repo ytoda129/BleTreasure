@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">宝さがし</string>
+    <string name="start_search">宝さがしスタート</string>
+    <string name="closeness_very_far">すごくとおい・・・</string>
+    <string name="closeness_far">とおい・・・</string>
+    <string name="closeness_near">ちかいぞ！</string>
+    <string name="closeness_very_near">すぐちかくだ！！</string>
+</resources>
